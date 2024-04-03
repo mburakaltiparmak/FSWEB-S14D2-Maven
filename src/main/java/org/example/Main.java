@@ -16,7 +16,7 @@ public class Main {
         Carpet carpet = new Carpet(75,75,PaintColor.GREEN);
 
         Bedroom bedroom = new Bedroom("yeni",wall1,wall2,wall3,wall4, ceiling, bed, lamp, wardrobe, carpet);
-        System.out.println("Hello world!");
+        
         System.out.println(bedroom);
 
     }
